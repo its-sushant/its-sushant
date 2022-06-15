@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning NLP using python
 - 👯 I’m looking to collaborate on opensource
 - 💬 Ask me about python & opensource
-- 😄 Pronouns: Him
+- 😄 Pronouns: He/Him
 
