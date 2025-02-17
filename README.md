@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Sushant, a full-time python developer 👨‍💻 </div>  
+### <div align="center">I'm Sushant, a full-time Software Developer 👨‍💻 </div>  
 ----
 <div align="center">
 <a href="https://github.com/its-sushant" target="_blank">
@@ -18,14 +18,14 @@
 </div>  
 <img src="https://user-images.githubusercontent.com/76658675/179303048-116efae8-70ea-4cad-b901-e8fda51a33c2.png" align="right" style="width:45%; height:300px" />
 
-- 🔭 I’m currently working on [Atarashi](https://github.com/fossology/atarashi) and [Minerva Dataset](https://github.com/fossology/Minerva-Dataset-Generation)
+- 🔭 I’m currently working on [FOSSology](https://github.com/fossology/fossology)
   
-- 🌱 I’m currently learning NLP using python(especially [transformer](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)#:~:text=A%20transformer%20is%20a%20deep,and%20computer%20vision%20(CV).)), Data structure and algorithms and Mathematical optimization 🧮
-- :slightly_smiling_face: Sometime I code in Php too and currently learning rust
+- 🌱 I’m currently learning Agentic AI 🧮
+- :slightly_smiling_face: Being boring is the key, hehe!
  
-- 👯 I’m looking to collaborate on projects and researches based on software development and machine learning
+- 👯 I’m looking to collaborate on projects and researches based on generative AI.
 
-- ❓ Ask me about python & opensource 
+- ❓ Ask me about FOSSology & opensource 
 
 - 😄 Pronouns: He/Him
     
